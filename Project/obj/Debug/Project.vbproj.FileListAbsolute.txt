@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\bin\Debug\Project.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Project\Project\obj\Debug\Project.pdb
